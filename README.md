@@ -1,9 +1,14 @@
-Here’s who ChatGPT thinks I am :')
+👋 Hi, I’m **Davide La Manna**.
+I’m an AI engineer with a background in mathematics, currently working on efficient machine learning systems, vector search, and edge-ready models. I enjoy building things that are both elegant and fast.
 
-* 👋 Hi, I’m @DavideLaManna
-* 👀 I’m interested in Machine Learning model, Finance, Edge AI and Mathematics.
-* 🌱 I’m currently learning Rust for high-performance applications, advanced Python development, and embedded C programming.
-* 💞️ I’m looking to collaborate on open-source projects related to generative embedde AI and knowledge graph
-* 📫 How to reach me: Feel free to message me via [email](mailto:davide.la.manna97@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/davide-la-manna/)!
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: I do crossfit, play drums, love board games and camping, and I’m passionate about metal music!
+👀 My interests revolve around **ML models**, **high-performance computing**, **vector databases**, **finance**, and anything that mixes theory with practical engineering.
+
+💡 I’m open to collaborations on:
+– efficient vector search and indexing
+– generative AI for low-resource devices
+– knowledge-driven systems (RAG, KG, hybrid search)
+– open-source tools that push performance boundaries
+
+📫 You can reach me at **[davide.la.manna97@gmail.com](mailto:davide.la.manna97@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/davide-la-manna/).
+
+Currently based in **Malta**, building, training, coding, and taking calculated risks.
