@@ -1,14 +1,9 @@
-👋 Hi, I’m **Davide La Manna**.
-I’m an AI engineer with a background in mathematics, currently working on efficient machine learning systems, vector search, and edge-ready models. I enjoy building things that are both elegant and fast.
+👋 Hi, I’m **Davide**.  
+I’m an AI engineer with a math background, working on efficient CV systems, vector search, and edge-ready models. [github](https://github.com/DavideLaManna/DavideLaManna/edit/main/README.md)
 
-👀 My interests revolve around **ML models**, **high-performance computing**, **vector databases**, **finance**, and anything that mixes theory with practical engineering.
+I like building ML things that are both fast and useful, and I tend to gravitate toward **high-performance computing**, **vector databases**, and **finance**. [github](https://github.com/DavideLaManna/DavideLaManna/edit/main/README.md)
 
-💡 I’m open to collaborations on:
-– efficient vector search and indexing
-– generative AI for low-resource devices
-– knowledge-driven systems (RAG, KG, hybrid search)
-– open-source tools that push performance boundaries
+I’m open to collaborating on vector search, generative AI for low-resource devices, knowledge-driven systems (RAG, KG, hybrid search), or open-source tools where performance actually matters. [github](https://github.com/DavideLaManna/DavideLaManna/edit/main/README.md)
 
-📫 You can reach me at **[davide.la.manna97@gmail.com](mailto:davide.la.manna97@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/davide-la-manna/).
-
-Currently based in **Malta**, building, training, coding, and taking calculated risks.
+You can reach me at **[davide.la.manna97@gmail.com](mailto:davide.la.manna97@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/davide-la-manna/). [github](https://github.com/DavideLaManna/DavideLaManna/edit/main/README.md)
+I’m based in **Malta**, usually somewhere between training models, writing code, and taking a few calculated risks. [github](https://github.com/DavideLaManna/DavideLaManna/edit/main/README.md)
